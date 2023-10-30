@@ -1,8 +1,8 @@
 # PotenciaTechIfood
 Potência Tech iFood - Desenvolvimento de Jogos
 
-#Repositorio para desafio de git
+# Repositorio para desafio de git
 
 
-##Links uteis
+## Links uteis
 [Sintaxe Basica de Markdown](https://markdownguide.org/basic-syntax/)
